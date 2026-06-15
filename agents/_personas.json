@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "john-jonah",
+    "name": "John / 'Jonah'",
+    "epithet": "The narrator — a writer researching the bomb who is pulled i",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦John / 'Jonah':CC1:f566b0⟧"
+  },
+  {
+    "slug": "dr-felix-hoenikker",
+    "name": "Dr. Felix Hoenikker",
+    "epithet": "The childlike 'father of the atomic bomb' and inventor of ic",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Dr. Felix Hoenikker:CC1:e9fcc9⟧"
+  },
+  {
+    "slug": "the-hoenikker-children",
+    "name": "The Hoenikker Children",
+    "epithet": "Frank, Newt & Angela — each holding a chip of ice-nine: the ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Hoenikker Children:CC1:7f8ed3⟧"
+  },
+  {
+    "slug": "bokonon-lionel-boyd-johnson",
+    "name": "Bokonon (Lionel Boyd Johnson)",
+    "epithet": "Founder of the outlawed religion of San Lorenzo, living in e",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Bokonon (Lionel Boyd Johnson):CC1:c0f276⟧"
+  },
+  {
+    "slug": "mona-aamons-monzano",
+    "name": "Mona Aamons Monzano",
+    "epithet": "The island's idealized beauty, Jonah's promised bride.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Mona Aamons Monzano:CC1:e28c9e⟧"
+  },
+  {
+    "slug": "ice-nine",
+    "name": "Ice-nine",
+    "epithet": "A crystalline form of water with a high melting point that f",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Ice-nine:CC1:adbee8⟧"
+  },
+  {
+    "slug": "bokononism",
+    "name": "Bokononism",
+    "epithet": "A faith openly built on lies — its vocabulary: karass, granf",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Bokononism:CC1:9570be⟧"
+  },
+  {
+    "slug": "san-lorenzo",
+    "name": "San Lorenzo",
+    "epithet": "The impoverished island state where the apocalypse plays out",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦San Lorenzo:CC1:fc0320⟧"
+  }
+]
