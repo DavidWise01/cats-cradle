@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 908
 slug  : cats-cradle
-seal  : 9196c6202ab6208a63264830ba8e28e4cda032d00a8eb81f1d39196f05449523
-prev  : ec69fda3ce336ebf7fb5b5f6f2552fb40b165ef8bb9930545ce21a2b33c8dc22
-link  : 2bd26c3a98e2e7cee33149d613ef9d45eb6d7da90b1f00ec0a37291eb5b6a13d
-head  : f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409
+seal  : 932a013160b4062fe0324b1acb73420ad233d34a9a3a2e7c58fcf23168dfb0d9
+prev  : 93b5e0f8d36d1d7273269c6cc3b48658bd4fabb5cbb36d9b74d21c098f0f8cb0
+link  : d708c0618f0a8a0ec596c733e28045e3f609c502984a91d2280bc1300ff91435
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
